@@ -51,3 +51,16 @@ Cara menginstall bootstrap ada beberapa cara, anda bisa mengunakan beberapa cara
 Install Bootstrap dengan Bower-> Bower install bootstrap
 Install Bootstrap dengan npm-> npm install bootstrap
 Install Bootstrap dengan composer-> composer require twbs/bootstrap
+
+# Manfaat & Keuntungan Menggunakan Bootstrap
+manfaat bootstrap
+Tentu anda yang awam tentang framework css boostrap bertanya-tanya apa istimewa jika menggunakan bootstrap sehingga banyak developer menggunakannya, berikut ini beberapa keuntungan jika menggukan bootstrap .
+
+Penggunaan bootstrap sangat menghemat waktu pengerjaan.
+Tampilan yang cukup menarik clean dan modern
+Tampilan sudah bisa dikatakan mobile friendly karena sudah bisa responsive, karena bootstrap sudah mendukung segala jenis resolusi.
+Sangat ringan dan terstruktur
+Dan masih banyak lagi keuntungan yang didapat jika sudah membuat suatu website.
+Bootstrap memberikan kemudahan bagi anda, dengan menggunakannya dapat memangkas waktu, tenaga dalam proses pengerjaan suatu website. Kita selalu dituntut melakukan pekerjaan apapun dengan efisien dan efektif, dengan demikian penggunaan framework twitter bootstrap ini bisa anda pilih ketika membuat suatu website bagi anda maupun klien anda.
+
+
